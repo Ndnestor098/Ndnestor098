@@ -1,6 +1,6 @@
 # ¡Hola! Soy Nestor Daniel 👋
 
-![Banner de tu perfil]([https://media.licdn.com/dms/image/D4D16AQHys9GgvkY…eta&t=S9MoFRll32kk3aGGW_cwiS8Pc2Yp-IrS2soKMBVsxtI](https://media.licdn.com/dms/image/D4D16AQHys9GgvkYZSw/profile-displaybackgroundimage-shrink_350_1400/0/1702986277892?e=1721865600&v=beta&t=S9MoFRll32kk3aGGW_cwiS8Pc2Yp-IrS2soKMBVsxtI))
+![Banner de tu perfil](https://ndnestor098.github.io/WebCV/img/port.jpeg)
 
 Soy un desarrollador web especializado en **Laravel**, con experiencia en **JavaScript**, **CSS**, **HTML**, **PHP**, y **Tailwind CSS**. Actualmente, estoy aprendiendo **Alpine.js** para mejorar mis habilidades en desarrollo frontend.
 
@@ -16,7 +16,7 @@ Soy un desarrollador web especializado en **Laravel**, con experiencia en **Java
 
 ### Scarpetoss Laravel
 Scarpetoss es una tienda en línea construida con Laravel que permite a los usuarios navegar, buscar y comprar zapatos. Este proyecto utiliza Stripe para procesar los pagos y proporciona una interfaz de usuario limpia y moderna.  
-[Repositorio] (https://github.com/Ndnestor098/ScarpetossLaravel)
+[Repositorio](https://github.com/Ndnestor098/ScarpetossLaravel)
 
 ### Corporation TransLog
 Somos una empresa de Logística Internacional con Alcance Global. Nuestra mision es Proveer Servicios Integrales de Comercio Internacional.  
@@ -26,7 +26,7 @@ Somos una empresa de Logística Internacional con Alcance Global. Nuestra mision
 
 - **Email:** [trabajo.nestor.098@gmail.com](mailto:trabajo.nestor.098@gmail.com)
 - **LinkedIn:** [Nestor Daniel](www.linkedin.com/in/Ndnestor)
-- **Portafolio:** [tu-dominio.com]([URL_DE_TU_PORTAFOLIO](https://ndnestor098.github.io/WebCV/))
+- **Portafolio:** [WebCV](https://ndnestor098.github.io/WebCV/)
 
 ## 🚀 Sobre mí
 
