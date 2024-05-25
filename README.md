@@ -1,6 +1,6 @@
 # ¡Hola! Soy Nestor Daniel 👋
 
-![Banner de tu perfil](https://media.licdn.com/dms/image/D4D16AQHys9GgvkY…eta&t=S9MoFRll32kk3aGGW_cwiS8Pc2Yp-IrS2soKMBVsxtI)
+![Banner de tu perfil]([https://media.licdn.com/dms/image/D4D16AQHys9GgvkY…eta&t=S9MoFRll32kk3aGGW_cwiS8Pc2Yp-IrS2soKMBVsxtI](https://media.licdn.com/dms/image/D4D16AQHys9GgvkYZSw/profile-displaybackgroundimage-shrink_350_1400/0/1702986277892?e=1721865600&v=beta&t=S9MoFRll32kk3aGGW_cwiS8Pc2Yp-IrS2soKMBVsxtI))
 
 Soy un desarrollador web especializado en **Laravel**, con experiencia en **JavaScript**, **CSS**, **HTML**, **PHP**, y **Tailwind CSS**. Actualmente, estoy aprendiendo **Alpine.js** para mejorar mis habilidades en desarrollo frontend.
 
