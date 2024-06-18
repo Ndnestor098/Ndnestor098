@@ -18,9 +18,9 @@ Soy un desarrollador web especializado en **Laravel**, con experiencia en **Java
 Scarpetoss es una tienda en línea construida con Laravel que permite a los usuarios navegar, buscar y comprar zapatos. Este proyecto utiliza Stripe para procesar los pagos y proporciona una interfaz de usuario limpia y moderna.  
 [Repositorio](https://github.com/Ndnestor098/ScarpetossLaravel)
 
-### Corporation TransLog
-Somos una empresa de Logística Internacional con Alcance Global. Nuestra mision es Proveer Servicios Integrales de Comercio Internacional.  
-[Repositorio](https://github.com/Ndnestor098/CorporationTranslog) | [Web](http://corporationtranslog.infinityfreeapp.com/)
+### EduPlus
+EduPlus es una plataforma educativa diseñada para facilitar la gestión de calificaciones y tareas entre estudiantes y profesores. La aplicación permite a los profesores asignar trabajos y evaluar a los estudiantes de manera eficiente, y proporciona control administrativo para directores.  
+[Repositorio](https://github.com/Ndnestor098/EduPlus)
 
 ## 📫 Cómo contactarme
 
