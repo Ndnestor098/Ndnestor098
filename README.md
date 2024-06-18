@@ -1,6 +1,6 @@
 # ¡Hola! Soy Nestor Daniel 👋
 
-![Banner de tu perfil](https://ndnestor098.github.io/WebCV/img/port.jpeg)
+![Banner de tu perfil](https://ndnestor098.github.io/WebCV/assets/img/port.jpeg)
 
 Soy un desarrollador web especializado en **Laravel**, con experiencia en **JavaScript**, **CSS**, **HTML**, **PHP**, y **Tailwind CSS**. Actualmente, estoy aprendiendo **Alpine.js** para mejorar mis habilidades en desarrollo frontend.
 
