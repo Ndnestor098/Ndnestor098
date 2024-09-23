@@ -1,14 +1,14 @@
 # ¡Hola! Soy Nestor Daniel 👋
 
-![Banner de tu perfil](https://ndnestor098.github.io/WebCV/assets/img/port.jpeg)
+![Banner de tu perfil](https://ndnestor098.github.io/WebCV/assets/img/port.webp)
 
-Soy un desarrollador web especializado en **Laravel**, con experiencia en **JavaScript**, **CSS**, **HTML**, **PHP**, y **Tailwind CSS**. Actualmente, estoy aprendiendo **Alpine.js** para mejorar mis habilidades en desarrollo frontend.
+Soy un desarrollador web especializado en **Laravel**, con experiencia en **JavaScript**, **CSS**, **HTML**, **PHP**, y **Tailwind CSS**. Actualmente, estoy aprendiendo **React** para mejorar mis habilidades en desarrollo frontend.
 
 ## 🔧 Tecnologías y Herramientas
 
 - **Lenguajes de Programación:** PHP, JavaScript, HTML, CSS.
-- **Frameworks y Librerías:** Laravel, Alpine.js (aprendiendo).
-- **Herramientas de Desarrollo:** Git, Visual Studio Code, Composer.
+- **Frameworks y Librerías:** Laravel, React (aprendiendo).
+- **Herramientas de Desarrollo:** Git, Visual Studio Code, Composer, NPM.
 - **Estilos:** Tailwind CSS, Bootstrap.
 - **Bases de Datos:** MySQL, SQLite y SQLServer.
 
@@ -34,7 +34,7 @@ Soy un apasionado desarrollador web con un fuerte enfoque en crear aplicaciones 
 
 ## 🎯 Objetivos
 
-- Dominar Alpine.js para integrarlo en mis proyectos de Laravel.
+- Dominar React para integrarlo en mis proyectos de Laravel.
 - Contribuir a proyectos de código abierto en la comunidad de Laravel.
 - Trabajar en una empresa de tecnología líder en desarrollo web.
 - Mantener un equilibrio saludable entre el trabajo y la vida personal mientras sigo aprendiendo y creciendo como desarrollador.
