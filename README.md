@@ -22,6 +22,10 @@ Scarpetoss es una tienda en línea construida con Laravel que permite a los usua
 EduPlus es una plataforma educativa diseñada para facilitar la gestión de calificaciones y tareas entre estudiantes y profesores. La aplicación permite a los profesores asignar trabajos y evaluar a los estudiantes de manera eficiente, y proporciona control administrativo para directores.  
 [Repositorio](https://github.com/Ndnestor098/EduPlus)
 
+### Real State Villa
+Real State Villa es una aplicación web desarrollada con Laravel y React, donde Laravel actúa como la API backend y React como el frontend. Esta aplicación está diseñada para gestionar bienes raíces, incluyendo funcionalidades como la visualización de casas, características de las propiedades, visitas, y notificaciones. 
+[Repositorio](https://github.com/Ndnestor098/RealState)
+
 ## 📫 Cómo contactarme
 
 - **Email:** [trabajo.nestor.098@gmail.com](mailto:trabajo.nestor.098@gmail.com)
