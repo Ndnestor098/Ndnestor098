@@ -24,6 +24,7 @@ EduPlus es una plataforma educativa diseñada para facilitar la gestión de cali
 
 ### Real State Villa
 Real State Villa es una aplicación web desarrollada con Laravel y React, donde Laravel actúa como la API backend y React como el frontend. Esta aplicación está diseñada para gestionar bienes raíces, incluyendo funcionalidades como la visualización de casas, características de las propiedades, visitas, y notificaciones. 
+
 [Repositorio](https://github.com/Ndnestor098/RealState)
 
 ## 📫 Cómo contactarme
