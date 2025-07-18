@@ -18,13 +18,18 @@ Soy un desarrollador web especializado en **Laravel**, con experiencia en **Java
 Scarpetoss es una tienda en línea construida con Laravel que permite a los usuarios navegar, buscar y comprar zapatos. Este proyecto utiliza Stripe para procesar los pagos y proporciona una interfaz de usuario limpia y moderna.  
 [Repositorio](https://github.com/Ndnestor098/ScarpetossLaravel)
 
-### EduPlus
-EduPlus es una plataforma educativa diseñada para facilitar la gestión de calificaciones y tareas entre estudiantes y profesores. La aplicación permite a los profesores asignar trabajos y evaluar a los estudiantes de manera eficiente, y proporciona control administrativo para directores.  
-[Repositorio](https://github.com/Ndnestor098/EduPlus)
+### Listana
+Listana es una aplicación web moderna para crear, gestionar y compartir listas de compras de forma colaborativa. Pensada para facilitar la organización entre miembros de una familia, amigos o compañeros de casa.
+Puedes crear tus propias listas, invitar usuarios mediante correo, seguir el estado de los productos (comprados o pendientes), y llevar un control del total de productos y precios estimados. 
+[Repositorio](https://github.com/Ndnestor098/Listana)
 
 ### Real State Villa
 Real State Villa es una aplicación web desarrollada con Laravel y React, donde Laravel actúa como la API backend y React como el frontend. Esta aplicación está diseñada para gestionar bienes raíces, incluyendo funcionalidades como la visualización de casas, características de las propiedades, visitas, y notificaciones.  
 [Repositorio](https://github.com/Ndnestor098/RealState)
+
+### SaldoFacile
+SaldoFacile es una aplicación web moderna para gestionar tus finanzas personales, calcular impuestos y controlar créditos de forma sencilla. Diseñada para cualquier persona que desee organizar su economía, planificar pagos, calcular impuestos y simular hipotecas o créditos con facilidad.
+[Repositorio](https://github.com/Ndnestor098/SaldoFacile)
 
 ## 📫 Cómo contactarme
 
